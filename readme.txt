@@ -31,9 +31,9 @@ GPLv3 or later
 == Installation ==
 
 = Installing the plugin =
-1. In your WordPress admin panel, go to *Plugins > New Plugin*, search for *Related Posts for WordPress* and click "Install now"
-1. Alternatively, download the plugin and upload the contents of `related-posts-for-wp.zip` to your plugins directory, which usually is `/wp-content/plugins/`.
-1. Activate the plugin
+1. In your WordPress admin panel, go to *Plugins > New Plugin*, search for *WooCommerce Inspector* and click "Install now"
+2. Alternatively, download the plugin and upload the contents of `woocommerce-inspector.zip` to your plugins directory, which usually is `/wp-content/plugins/`.
+3. Activate the plugin
 
 == Frequently Asked Questions ==
 
