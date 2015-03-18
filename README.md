@@ -9,3 +9,7 @@ The WooCommerce Inspector is a WordPress plugin that allows you to click on any 
  **Install from GitHub**
  
  If you install this plugin from GitHub you'll need to run ``composer install`` in the plugin root directory.
+
+**License**
+
+GPLv3 or later
