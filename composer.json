@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"WCI\\": "src/"}
+  },
+  "require": {
+    "wpupdatephp/wp-update-php": "~1.0"
+  }
+}
