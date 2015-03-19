@@ -1,5 +1,5 @@
 <?php
-namespace WCI;
+namespace BarryKooijPlugins\WooCommerceInspector;
 
 class Inspector {
 

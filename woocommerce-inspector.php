@@ -32,5 +32,5 @@ if ( $updatePhp->does_it_meet_required_php_version( PHP_VERSION ) ) {
 	define( 'WOOCOMMERCE_INSPECTOR_FILE', __FILE__ );
 
 	// Create plugin object
-	new WCI\Plugin();
+	new BarryKooijPlugins\WooCommerceInspector\Plugin();
 }

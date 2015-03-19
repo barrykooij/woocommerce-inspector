@@ -1,6 +1,6 @@
 <?php
 
-namespace WCI;
+namespace BarryKooijPlugins\WooCommerceInspector;
 
 class AdminBar {
 
