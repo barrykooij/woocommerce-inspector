@@ -43,6 +43,9 @@ It's pretty easy. You click the WC Inspector button in the admin bar while brows
 = I don't have this "admin bar" you're talking about. Is this required? =
 Yes, the admin bar is required. The good news is that it's a default WordPress feature and every theme should support it. You can enable this feature in your profile, located here: yourwebsite.com/wp-admin/profile.php
 
+= I get a notice that 'this plugin can not run on PHP versions older than 5.3', how do I fix this? =
+PHP is a piece of software that's installed on your server to (help) run your websites. Chances are this is the first time you hear about any of this and that's OK. There's a lot of information on this website: http://www.wpupdatephp.com/update/
+
 = Wow, is this for real? =
 You bet it is.
 
