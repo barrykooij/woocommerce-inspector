@@ -3,7 +3,7 @@ Contributors: barrykooij
 Donate link: http://www.barrykooij.com/donate/
 Tags: woocomemerce, inspector, woocommerce inspector, template, wow
 Requires at least: 3.8
-Tested up to: 4.1.1
+Tested up to: 5.0
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
